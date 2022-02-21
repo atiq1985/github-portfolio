@@ -6,7 +6,7 @@ body{
 .orange-color{
     color: orange;
 }
-section{
+.flexible-container{
     display:flex;
     margin-bottom: 150px;
     
@@ -38,4 +38,8 @@ section{
     background-repeat: no-repeat;
     background-position: right;
     
+}
+.Experienc-image{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
 }
