@@ -39,7 +39,30 @@ body{
     background-position: right;
     
 }
-.Experienc-image{
+.Experienc-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
+    background-position: left;
+}
+.experienc-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    padding: 10px;
+    
+}
+#web-developer{
+    border-left: 7px solid;
+    border-image: linear-gradient(salmon tomato);
+    border-image-slice: 1;
+}
+#baby-web-developer{
+    border-left: 7px solid;
+    border-image: linear-gradient(salmon tomato);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
 }
