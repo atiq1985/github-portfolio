@@ -45,9 +45,9 @@ body{
     background-position: left;
 }
 .experienc-item{
-    width: 40%;
-    margin-left: 5%;
-    margin-right: 5%;
+    width: 48%;
+    margin-left: 3%;
+    margin-right: 3%;
     border-radius: 10px;
     box-shadow: 10px 10px 40px gray;
     padding: 10px;
@@ -55,12 +55,12 @@ body{
 }
 #web-developer{
     border-left: 7px solid;
-    border-image: linear-gradient(salmon tomato);
+    border-image: linear-gradient(#f56606, #07ebd8) ;
     border-image-slice: 1;
 }
 #baby-web-developer{
     border-left: 7px solid;
-    border-image: linear-gradient(salmon tomato);
+    border-image: linear-gradient(#f6b73c, #4d9f0c) ;
     border-image-slice: 1;
 }
 footer p{
